@@ -52,8 +52,8 @@
 .busqueda {
   display: flex;
   align-items: center;
-  background-color: #fff;
-  border: 2px solid #646464;
+ background-color: white;
+  border: 2px solid #ffffff;
   padding: 5px 10px;
   border-radius: 5px;
 }
@@ -109,6 +109,8 @@
   margin: 100px 0 60px 10px;
   font-weight: bold;
   text-align: left;
+  font-family:cursive;
+  color: #2e2d2c;
 }
 
 
